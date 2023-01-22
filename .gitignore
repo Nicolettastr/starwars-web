@@ -63,6 +63,3 @@ public/
 .now
 .vercel
 
-# dotenv environment variables file
-.env
-.env.test
