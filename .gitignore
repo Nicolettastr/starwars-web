@@ -62,3 +62,7 @@ public/
 !.env.example
 .now
 .vercel
+
+# dotenv environment variables file
+.env
+.env.test
